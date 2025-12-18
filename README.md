@@ -24,7 +24,3 @@ This repository teaches you **how to think like a designer** 🧠
 🔹 Emphasis on **extensibility & maintainability**  
 🔹 Structured to match **real interview expectations**  
 
----
-
-## 🏗️ Project Structure
-
